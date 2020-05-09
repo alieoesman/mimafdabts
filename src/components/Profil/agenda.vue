@@ -1,0 +1,20 @@
+<template>
+  <div class="agenda">
+    
+      <div class="container">
+          <h1>Agenda MI Mafatihul Huda</h1> <hr>
+
+          <p><span>Assalamu'alaikum wr.wb</span></p>
+          <p class="text-left">Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum pariatur illum est rerum architecto similique dolorum minus alias accusamus rem.Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum pariatur illum est rerum architecto similique dolorum minus alias accusamus rem.</p> <br>
+          <p class="text-left">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quos eveniet accusantium fuga minus dolorum esse odio maxime obcaecati eligendi sunt. Earum repellendus, maiores fugiat facilis ipsa consequatur laudantium animi ducimus corrupti at, similique placeat, nam eligendi voluptatem magni dicta tempore eius perspiciatis saepe sint consectetur suscipit unde veniam distinctio? Sapiente, quas sunt atque adipisci quia ipsum nemo optio fugit asperiores quaerat in modi quam nisi, voluptatum non inventore cum iusto praesentium tempora perferendis soluta doloribus consectetur! Rem autem consectetur doloribus quae quos nesciunt veniam obcaecati pariatur quaerat, soluta praesentium ut dolorem saepe, consequuntur excepturi laboriosam architecto explicabo repudiandae quam aut. Saepe perspiciatis similique est delectus, provident, praesentium, rem unde iure qui quod illo impedit velit consequuntur cupiditate quos commodi illum a ut eaque doloribus asperiores minima eum hic? Quod ullam velit tempora incidunt sunt hic eos beatae earum praesentium, consequatur nobis odit unde officia non quas modi ipsam voluptas sed!</p> <br>
+          <p class="text-left">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quos eveniet accusantium fuga minus dolorum esse odio maxime obcaecati eligendi sunt. Earum repellendus, maiores fugiat facilis ipsa consequatur laudantium animi ducimus corrupti at, similique placeat, nam eligendi voluptatem magni dicta tempore eius perspiciatis saepe sint consectetur suscipit unde veniam distinctio? Sapiente, quas sunt atque adipisci quia ipsum nemo optio fugit asperiores quaerat in modi quam nisi, voluptatum non inventore cum iusto praesentium tempora perferendis soluta doloribus consectetur! Rem autem consectetur doloribus quae quos nesciunt veniam obcaecati pariatur quaerat, soluta praesentium ut dolorem saepe, consequuntur excepturi laboriosam architecto explicabo repudiandae quam aut. Saepe perspiciatis similique est delectus, provident, praesentium, rem unde iure qui quod illo impedit velit consequuntur cupiditate quos commodi illum a ut eaque doloribus asperiores minima eum hic? Quod ullam velit tempora incidunt sunt hic eos beatae earum praesentium, consequatur nobis odit unde officia non quas modi ipsam voluptas sed!</p> <br>
+          <p class="text-left">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quos eveniet accusantium fuga minus dolorum esse odio maxime obcaecati eligendi sunt. Earum repellendus, maiores fugiat facilis ipsa consequatur laudantium animi ducimus corrupti at, similique placeat, nam eligendi voluptatem magni dicta tempore eius perspiciatis saepe sint consectetur suscipit unde veniam distinctio? Sapiente, quas sunt atque adipisci quia ipsum nemo optio fugit asperiores quaerat in modi quam nisi, voluptatum non inventore cum iusto praesentium tempora perferendis soluta doloribus consectetur! Rem autem consectetur doloribus quae quos nesciunt veniam obcaecati pariatur quaerat, soluta praesentium ut dolorem saepe, consequuntur excepturi laboriosam architecto explicabo repudiandae quam aut. Saepe perspiciatis similique est delectus, provident, praesentium, rem unde iure qui quod illo impedit velit consequuntur cupiditate quos commodi illum a ut eaque doloribus asperiores minima eum hic? Quod ullam velit tempora incidunt sunt hic eos beatae earum praesentium, consequatur nobis odit unde officia non quas modi ipsam voluptas sed!</p>
+      </div>
+    
+  
+  </div>
+</template>
+
+<script>
+ 
+</script>
